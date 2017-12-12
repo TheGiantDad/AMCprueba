@@ -1,1 +1,2 @@
 Programador 1: Manuel 
+Programador 2: Jose
