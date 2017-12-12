@@ -1,2 +1,3 @@
 Programador 1: Manuel 
 Programador 2: Jose
+alerta por subnormal
